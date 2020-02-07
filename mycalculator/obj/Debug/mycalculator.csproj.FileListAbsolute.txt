@@ -1,0 +1,10 @@
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\bin\Debug\mycalculator.exe.config
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\bin\Debug\mycalculator.exe
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\bin\Debug\mycalculator.pdb
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.csprojAssemblyReference.cache
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.Form1.resources
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.Properties.Resources.resources
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.GenerateResource.cache
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.CoreCompileInputs.cache
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.exe
+C:\Users\vivek.jaiswal\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.pdb
